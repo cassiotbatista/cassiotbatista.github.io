@@ -1,0 +1,25 @@
+baseURL: https://cassiotbatista.github.io
+languageCode: en-us
+title: Cassio Batista
+theme: "PaperMod"
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  homeInfoParams:
+    Title: Welcome!
+    Content: Hi, this is Cassio. I'm doing research in speech processing, if you're curious. This blog is a WIP, so check [cassota.gitlab.io](https://cassota.gitlab.io) out to look into my recent past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil). My contributions are mainly focused on Brazilian Portuguese.
+
+  socialIcons: # optional
+    - name: "graduation-cap"
+      url: "https://scholar.google.com.br/citations?user=_04j8QUAAAAJ"
+    - name: "github"
+      url: "https://github.com/cassiotbatista"
+    - name: "twitter"
+      url: "https://twitter.com/cassiotbatista"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/cassiotbatista"
+    - name: "email"
+      url: "mailto:cassiotbatista@gmail.com"
