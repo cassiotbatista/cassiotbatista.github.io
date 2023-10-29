@@ -1,6 +1,6 @@
 baseURL: https://cassiotbatista.github.io
 languageCode: en-us
-title: Cassio Batista
+title: Cassio T Batista
 theme: "PaperMod"
 
 module:
@@ -10,7 +10,7 @@ module:
 params:
   homeInfoParams:
     Title: Welcome!
-    Content: Hi, this is Cassio. I'm doing research in speech processing, if you're curious. This blog is a WIP, so check [cassota.gitlab.io](https://cassota.gitlab.io) out to look into my recent past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil). My contributions are mainly focused on Brazilian Portuguese.
+    Content: Hi, this is Cassio. I'm doing research in speech processing at [@Vivoka](https://vivoka.com) 🇫🇷, if you're curious. This blog is a WIP, so check [@cassota](https://cassota.gitlab.io) out to look into my recent past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil). My contributions are mainly focused on Brazilian Portuguese 🇧🇷.
 
   socialIcons: # optional
     - name: "graduation-cap"
