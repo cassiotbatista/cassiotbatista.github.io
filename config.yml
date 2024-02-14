@@ -10,16 +10,16 @@ module:
 params:
   homeInfoParams:
     Title: Welcome!
-    Content: Hi, this is Cassio. I'm doing research in speech processing at [@Vivoka](https://vivoka.com) 🇫🇷, if you're curious. This blog is a WIP, so check [@cassota](https://cassota.gitlab.io) out to look into my recent past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil). My contributions are mainly focused on Brazilian Portuguese 🇧🇷.
+    Content: Hi, this is Cassio. I'm doing research in speech processing at [@Vivoka](https://vivoka.com) 🇫🇷, if you're curious. This blog is a WIP, so check [@cassota](https://cassota.gitlab.io) out to look into my past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil) 🇧🇷.
 
   socialIcons: # optional
     - name: "graduation-cap"
       url: "https://scholar.google.com.br/citations?user=_04j8QUAAAAJ"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/cassiotbatista"
     - name: "github"
       url: "https://github.com/cassiotbatista"
     - name: "twitter"
       url: "https://twitter.com/cassiotbatista"
-    - name: "linkedin"
-      url: "https://linkedin.com/in/cassiotbatista"
     - name: "email"
       url: "mailto:cassiotbatista@gmail.com"
