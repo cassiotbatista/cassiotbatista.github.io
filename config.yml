@@ -8,9 +8,13 @@ module:
   - path: github.com/adityatelange/hugo-PaperMod
 
 params:
+  params:
+    author:
+      name: "Cassio T Batista"
+      email: "Cassio T Batista"
   homeInfoParams:
     Title: Welcome!
-    Content: Hi, this is Cassio. I'm doing research in speech processing at [@Vivoka](https://vivoka.com) 🇫🇷, if you're curious. This blog is a WIP, so check [@cassota](https://cassota.gitlab.io) out to look into my past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil) 🇧🇷.
+    Content: Hi, this is Cassio :) I work on ML applied to speech processing, if you're curious. This blog is a WIP, so check [@cassota](https://cassota.gitlab.io) out to look into my past. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil).
 
   socialIcons: # optional
     - name: "graduation-cap"
@@ -19,7 +23,7 @@ params:
       url: "https://linkedin.com/in/cassiotbatista"
     - name: "github"
       url: "https://github.com/cassiotbatista"
-    - name: "twitter"
-      url: "https://twitter.com/cassiotbatista"
+    - name: "youtube"
+      url: "https://youtube.com/@cassiotbatista"
     - name: "email"
-      url: "mailto:cassiotbatista@gmail.com"
+      url: "mailto:cassiotbatista < at > gmail.com"
