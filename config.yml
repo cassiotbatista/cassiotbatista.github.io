@@ -3,10 +3,6 @@ languageCode: en-us
 title: Cassio T Batista
 theme: "PaperMod"
 
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
-
 params:
   params:
     author:
