@@ -16,7 +16,7 @@ params:
       email: "Cassio T Batista"
   homeInfoParams:
     Title: Welcome!
-    Content: Hi, this is Cassio :) I work on ML applied to speech processing, if you're curious. This blog is a WIP, so please be patient. Sometimes I push stuff to [@falabrasil](https://github.com/falabrasil).
+    Content: Hi, this is Cassio :) I work on machine learning applied to speech processing, if you're curious. This blog contains technical deep-dives, research notes, and engineering lessons from my experience. Sometimes I also push stuff to [@falabrasil](https://github.com/falabrasil).
 
   socialIcons: # optional
     - name: "graduation-cap"
