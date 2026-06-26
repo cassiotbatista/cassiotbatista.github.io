@@ -19,7 +19,7 @@ params:
     Content: Hi, this is Cassio :) I work on machine learning applied to speech processing, if you're curious. This blog contains technical deep-dives, research notes, and engineering lessons from my experience. Sometimes I also push stuff to [@falabrasil](https://github.com/falabrasil).
 
   socialIcons: # optional
-    - name: "graduation-cap"
+    - name: "googlescholar"
       url: "https://scholar.google.com.br/citations?user=_04j8QUAAAAJ"
     - name: "linkedin"
       url: "https://linkedin.com/in/cassiotbatista"
