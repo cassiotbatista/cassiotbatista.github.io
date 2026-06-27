@@ -8,6 +8,9 @@ menu:
     - name: About
       url: about
       weight: 1
+    - name: Poetry
+      url: https://cassinho.substack.com/
+      weight: 2
 
 params:
   params:
