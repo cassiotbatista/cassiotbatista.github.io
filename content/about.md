@@ -25,12 +25,12 @@ technologies, MLOps, and production-grade AI systems.
 
 I obtained my PhD in 2023 from 
 [Federal University of Pará](https://ufpa.br/) (UFPA),
-where I worked on forced alignment for using both 
+where I worked on forced alignment using both 
 Gaussian mixtures and deep neural networks.
 In industry, I have contributed to the development and maintenance of in-house 
 ASR systems for
 logistics ([Vivoka](https://vivoka.com/), France)
-and call centers ([CPQD](https://www.cpqd.com.br/), Brazil)
+and call center ([CPQD](https://www.cpqd.com.br/), Brazil)
 applications, working on model training, evaluation, on-device inference, and
 data preparation pipelines.
 
@@ -45,6 +45,5 @@ data preparation pipelines.
 
 My hobbies include juggling the ball ("*altinha*" and freestyle), dancing, 
 jogging, and writing poetic prose. 
-Being originally from Brazil and currently living in France, I also love 
-traveling the world and working in multilingual and multicultural environments,
-of course.
+Being originally from Brazil and currently based in Metz, France, I also love 
+traveling the world and working in multilingual and multicultural environments.
